@@ -1,12 +1,12 @@
 # Meus Estudos em Java ☕
 
 Bem-vindo(a) ao meu repositório de aprendizado! Este repositório contém meus códigos e anotações do curso "Java COMPLETO Programação Orientada a Objetos + Projetos". 
-Este espaço foi criado para documentar minha evolução no ecossistema Java, partindo dos conceitos fundamentais de Programação Orientada a Objetos (POO) até o desenvolvimento de sistemas modernos e escaláveis.
+Este espaço foi criado para documentar minha evolução no ecossistema Java, partindo da lógica de programação, conceitos fundamentais de Programação Orientada a Objetos (POO) até o desenvolvimento de sistemas modernos e escaláveis.
 
 Aqui, o foco não é apenas o código, mas o entendimento da arquitetura, modelagem com UML e a aplicação prática de tecnologias de mercado.
 
 ## 🚀 Progresso do Curso
-- [ ] Lógica de Programação e Estrutura Sequencial
+- [ok] Lógica de Programação e Estrutura Sequencial
 - [ ] Orientação a Objetos (Classes, Atributos, Métodos)
 - [ ] Comportamento de Memória, Arrays, Listas
 - [ ] Herança e Polimorfismo
@@ -16,9 +16,9 @@ Aqui, o foco não é apenas o código, mas o entendimento da arquitetura, modela
 
 📂 Como está organizado:
 
--Pastas por Disciplina: Cada grande área de estudo tem seu próprio diretório.
+-Pastas por Seções: Cada grande área de estudo tem seu próprio diretório.
 
--Tópicos por Aula: Dentro das disciplinas, as aulas são separadas por temas específicos.
+-Tópicos por Aula: Criei pacotes com exercícios desafios com anotações.
 
 -Documentação Local: Cada pasta de aula contém um arquivo README.md com minhas anotações teóricas e os códigos práticos que desenvolvi.
 
